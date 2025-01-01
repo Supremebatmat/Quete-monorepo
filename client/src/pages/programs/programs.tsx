@@ -1,5 +1,3 @@
-
-
 interface ProgramProps {
   id: number;
   title: string;
