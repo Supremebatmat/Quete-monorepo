@@ -24,6 +24,7 @@ import categoryActions from "./modules/category/categoryAction";
 router.get("/api/categories", categoryActions.browse);
 router.get("/api/categories/:id", categoryActions.read);
 
+
 // Declaration of a "Welcome" route
 
 import sayActions from "./modules/say/sayAction";
